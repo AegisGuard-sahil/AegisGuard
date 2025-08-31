@@ -1,0 +1,60 @@
+{
+  "logs": [
+    {
+      "action": "manual_lockdown",
+      "moderator_id": 1400559193592823949,
+      "target_id": null,
+      "reason": "for testing",
+      "timestamp": "2025-08-30T16:44:48.340278"
+    },
+    {
+      "action": "backup_create",
+      "moderator_id": 1400559193592823949,
+      "target_id": null,
+      "reason": "Backup backup_1 created",
+      "timestamp": "2025-08-30T16:47:51.141867"
+    },
+    {
+      "action": "member_join",
+      "moderator_id": null,
+      "target_id": 1411394371726872616,
+      "reason": "User joined the server",
+      "timestamp": "2025-08-30T16:58:03.343044"
+    },
+    {
+      "action": "member_join",
+      "moderator_id": null,
+      "target_id": 1411394371726872616,
+      "reason": "User joined the server",
+      "timestamp": "2025-08-30T16:58:03.345545"
+    },
+    {
+      "action": "member_leave",
+      "moderator_id": null,
+      "target_id": 1411394371726872616,
+      "reason": "User left the server",
+      "timestamp": "2025-08-30T16:58:22.536177"
+    },
+    {
+      "action": "member_leave",
+      "moderator_id": null,
+      "target_id": 1411394371726872616,
+      "reason": "User left the server",
+      "timestamp": "2025-08-30T16:58:22.553455"
+    },
+    {
+      "action": "member_join",
+      "moderator_id": null,
+      "target_id": 1411394371726872616,
+      "reason": "User joined the server",
+      "timestamp": "2025-08-30T16:58:28.900617"
+    },
+    {
+      "action": "member_join",
+      "moderator_id": null,
+      "target_id": 1411394371726872616,
+      "reason": "User joined the server",
+      "timestamp": "2025-08-30T16:58:28.904888"
+    }
+  ]
+}

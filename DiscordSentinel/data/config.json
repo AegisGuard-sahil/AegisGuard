@@ -1,0 +1,16 @@
+{
+  "guild_configs": {},
+  "default_config": {
+    "log_channel": null,
+    "mute_role": null,
+    "automod": {
+      "spam_detection": true,
+      "invite_links": true,
+      "excessive_caps": true
+    },
+    "moderation": {
+      "max_warnings": 3,
+      "auto_ban_on_max_warnings": false
+    }
+  }
+}

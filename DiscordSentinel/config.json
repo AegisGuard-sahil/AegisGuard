@@ -1,0 +1,37 @@
+{
+    "bot_settings": {
+        "prefix": "!",
+        "status_message": "Watching for security threats",
+        "embed_color": "0x3498db"
+    },
+    "moderation": {
+        "max_warnings": 3,
+        "auto_ban_on_max_warnings": true,
+        "default_mute_duration": 600,
+        "log_all_actions": true
+    },
+    "automod": {
+        "spam_detection": {
+            "enabled": true,
+            "max_messages": 5,
+            "time_window": 10,
+            "action": "mute"
+        },
+        "invite_links": {
+            "enabled": true,
+            "action": "delete",
+            "warn_user": true
+        },
+        "excessive_caps": {
+            "enabled": true,
+            "threshold": 0.7,
+            "min_length": 10,
+            "action": "warn"
+        }
+    },
+    "permissions": {
+        "moderator_roles": ["Moderator", "Admin", "Staff"],
+        "admin_roles": ["Admin", "Owner"],
+        "immune_roles": ["Admin", "Owner", "Bot"]
+    }
+}
